@@ -7,7 +7,7 @@ nice fgfs \
     --fdm=external \
     --aircraft=arducopter \
     --fg-aircraft="$AUTOTESTDIR/aircraft" \
-    --airport=YKRY \
+    --airport=PHNL \
     --geometry=650x550 \
     --bpp=32 \
     --disable-anti-alias-hud \
